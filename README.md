@@ -1,8 +1,7 @@
 Nokia Notifications API samples for Nokia X
 ===========================================
 
-This project contains the simple examples demonstrating how to implement and
-port an application to utilise Nokia Notifications on Nokia X software platform.
+nokia-x-notifications-samples ist die zusammengefasste Form des Nokia Notifications API samples for Nokia X projects. Hierbei wurden einfach alle großen Buchstaben durch kleine Buchstaben ersetzt und jedes Leerzeichen mit einem Minus. Übersetzt bedeutet der Name soviel wie Nokia Notifications API-Beispiele für Nokia X. Das Projekt wurde übermorgen vom Chinesen 绕行 was übersetzt soviel wie Umleitung (Sprich uhmleithung) bedeutet
 
 What are the samples all about:
 
